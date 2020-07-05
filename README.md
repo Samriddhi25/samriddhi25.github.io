@@ -1,5 +1,5 @@
 # Hey ! This is my website 
 
-<img src="screen.png" width=100%>
+<img src="./images/screen.png" width=100%>
 
 
