@@ -47,6 +47,14 @@ align-items: initial;
   background: linear-gradient(135deg,#df9a86,#b63862);
 }
 
+.sertifyme {
+  background: linear-gradient(135deg,#103d3c,#4A8280);
+}
+
+.messenja {
+  background: linear-gradient(135deg,#243d5e,#2ca3bb);
+}
+
 #particles-js {
   position: absolute;
   height: 100%;
@@ -104,6 +112,7 @@ align-items: initial;
 }
 
 #myimages2 {
+  margin: 35% 0;
   animation-name: jiggle;
   animation-duration: 8s;
   animation-iteration-count: infinite;
